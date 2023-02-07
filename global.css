@@ -1,0 +1,36 @@
+:root {
+  /* fonts */
+  --font-proxima-nova: "Proxima Nova";
+  --font-work-sans: "Work Sans";
+
+  /* font sizes */
+  --font-size-2xs: 12px;
+  --font-size-xs: 15px;
+  --font-size-sm: 18px;
+  --font-size-base: 20px;
+  --font-size-lg: 25px;
+  --font-size-xl: 34px;
+  --font-size-2xl: 40px;
+
+  /* Colors */
+  --color-gray: #001833;
+  --color-white: #fff;
+  --color-black: #000;
+  --color-orange: #ffa903;
+  --color-navy: #000075;
+
+  /* Gaps */
+  --gap-sm: 4px;
+  --gap-md: 10px;
+  --gap-lg: 65px;
+
+  /* Paddings */
+  --padding-sm: 5px;
+  --padding-md: 10px;
+
+  /* border radiuses */
+  --br-xs: 9px;
+  --br-sm: 22px;
+  --br-md: 30px;
+  --br-lg: 52px;
+}
