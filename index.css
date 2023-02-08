@@ -364,22 +364,13 @@ body {
   font-family: var(--font-proxima-nova);
 }
 .book-ticket1 {
-  position: absolute;
-  width: 179px;
-  height: 18px;
-  left: calc(50% - 179px/2 + 3.5px);
-  top: 679px;
-  
-  font-family: 'Work Sans';
-  font-style: normal;
-  font-weight: 400;
-  font-size: 18px;
-  line-height: 21px;
+  top: 17px;
+  left: calc(50% - 88.5px);
+  font-size: var(--font-size-lg);
+  letter-spacing: 0.09em;
+  color: var(--color-navy);
   text-align: center;
-  letter-spacing: 0.02em;
-  
-  color: #001833;
-  
+  text-shadow: 3px 3px 10px rgba(0, 0, 0, 0.25);
 }
 .departure1 {
   top: 85px;
@@ -503,20 +494,9 @@ body {
 }
 .chartsvacancy1,
 .show-trains1 {
-  position: absolute;
-width: 96px;
-height: 17px;
-left: calc(50% - 96px/2 + 1px);
-top: 681px;
-
-font-family: 'Proxima Nova';
-font-style: normal;
-font-weight: 400;
-font-size: 18px;
-line-height: 18px;
-letter-spacing: 0.02em;
-
-color: #001833;
+  top: 378px;
+  left: calc(50% - 88.5px);
+  text-align: left;
 }
 .show-trains1 {
   top: 324px;
