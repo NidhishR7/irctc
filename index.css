@@ -494,9 +494,20 @@ body {
 }
 .chartsvacancy1,
 .show-trains1 {
-  top: 378px;
-  left: calc(50% - 88.5px);
-  text-align: left;
+  position: absolute;
+width: 96px;
+height: 17px;
+left: calc(50% - 96px/2 + 1px);
+top: 681px;
+
+font-family: 'Proxima Nova';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 18px;
+letter-spacing: 0.02em;
+
+color: #001833;
 }
 .show-trains1 {
   top: 324px;
