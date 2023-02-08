@@ -364,13 +364,22 @@ body {
   font-family: var(--font-proxima-nova);
 }
 .book-ticket1 {
-  top: 17px;
-  left: calc(50% - 88.5px);
-  font-size: var(--font-size-lg);
-  letter-spacing: 0.09em;
-  color: var(--color-navy);
+  position: absolute;
+  width: 179px;
+  height: 18px;
+  left: calc(50% - 179px/2 + 3.5px);
+  top: 679px;
+  
+  font-family: 'Work Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 21px;
   text-align: center;
-  text-shadow: 3px 3px 10px rgba(0, 0, 0, 0.25);
+  letter-spacing: 0.02em;
+  
+  color: #001833;
+  
 }
 .departure1 {
   top: 85px;
